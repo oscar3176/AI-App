@@ -1,0 +1,40 @@
+body {
+    background-image: url("https://tse3.mm.bing.net/th?id=OIP.iUuK4tFP_hcCu43FBv_NPQHaEa&pid=Api&P=0&w=331&h=197");
+    background-size: cover;
+
+}
+
+.btn-warning {
+    width: 30%;
+    margin-top: 10;
+    font-size: 50px;
+    border-radius: 75px;
+}
+
+.btn-success, .btn-danger {
+    font-size: 18px;
+}
+
+.copy-right-footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: gray;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+    line-height: 3;
+}
+
+canvas {
+    box-shadow: 30px 30px 30px darkred;
+    margin:100px;
+    border-width: 20px;
+    border-color: red;
+    border-style:groove;
+    
+}
+
+.btn-success, .btn-danger, h1 {
+    font-style: italic;
+}
